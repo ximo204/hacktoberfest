@@ -2,7 +2,6 @@
 
 int main(){
 
-	cout<<"hola";
+cout<<"NO";
 
-	return 0;
 }
