@@ -2,6 +2,6 @@
 
 int main(){
 
-cout<<"NO";
+cout<<"NO,si";
 
 }

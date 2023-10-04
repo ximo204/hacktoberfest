@@ -2,7 +2,7 @@
 
 main(){
 
-cout<<"Si";
+cout<<"Si,no";
 
 }
 
